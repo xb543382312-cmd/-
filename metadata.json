@@ -1,0 +1,6 @@
+{
+  "name": "龙里县网格管理智能助手",
+  "description": "龙里县网格管理智能助手，包含高保真手机端登录页面、智能政策助理（集成 Gemini API）、日常社区服务工作台与可视化统计数据看板。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
